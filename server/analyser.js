@@ -44,8 +44,12 @@ const getScoresBySegment = (segmentUsers) => {
   };
 };
 
+const getOverallScore = (scores) => scores.reduce((overall, entry) => (
+  overall + entry.sentimentScore
+), 0);
+
 const isPositiveVote = (vote) => vote > 3;
 
 const isNegativeVote = (vote) => vote < 3;
 
-console.table(getSentimentScores());
+module.exports = { getSentimentScores, getOverallScore };
