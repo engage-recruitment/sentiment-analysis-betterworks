@@ -1,0 +1,122 @@
+[
+  {
+    "user": "U1",
+    "location": "Bangalore",
+    "designation": "Manager",
+    "department": "Engg"
+  },
+  {
+    "user": "U2",
+    "location": "Sydney",
+    "designation": "Manager",
+    "department": "HR"
+  },
+  {
+    "user": "U3",
+    "location": "London",
+    "designation": "Manager",
+    "department": "Admin"
+  },
+  {
+    "user": "U4",
+    "location": "SF",
+    "designation": "Manager",
+    "department": "Ops"
+  },
+  {
+    "user": "U5",
+    "location": "Mumbai",
+    "designation": "Manager",
+    "department": "Engg"
+  },
+  {
+    "user": "U6",
+    "location": "Bangalore",
+    "designation": "Developer",
+    "department": "Engg"
+  },
+  {
+    "user": "U7",
+    "location": "Sydney",
+    "designation": "Manager",
+    "department": "HR"
+  },
+  {
+    "user": "U8",
+    "location": "London",
+    "designation": "Manager",
+    "department": "Admin"
+  },
+  {
+    "user": "U9",
+    "location": "Bangalore",
+    "designation": "Manager",
+    "department": "Ops"
+  },
+  {
+    "user": "U10",
+    "location": "Sydney",
+    "designation": "Developer",
+    "department": "Engg"
+  },
+  {
+    "user": "U11",
+    "location": "Bangalore",
+    "designation": "Manager",
+    "department": "HR"
+  },
+  {
+    "user": "U12",
+    "location": "SF",
+    "designation": "Manager",
+    "department": "Admin"
+  },
+  {
+    "user": "U13",
+    "location": "Mumbai",
+    "designation": "Manager",
+    "department": "Engg"
+  },
+  {
+    "user": "U14",
+    "location": "Sydney",
+    "designation": "Manager",
+    "department": "HR"
+  },
+  {
+    "user": "U15",
+    "location": "Bangalore",
+    "designation": "Manager",
+    "department": "Admin"
+  },
+  {
+    "user": "U16",
+    "location": "Sydney",
+    "designation": "CEO",
+    "department": "Engg"
+  },
+  {
+    "user": "U17",
+    "location": "London",
+    "designation": "Manager",
+    "department": "HR"
+  },
+  {
+    "user": "U18",
+    "location": "SF",
+    "designation": "Manager",
+    "department": "Admin"
+  },
+  {
+    "user": "U19",
+    "location": "Mumbai",
+    "designation": "Manager",
+    "department": "Ops"
+  },
+  {
+    "user": "U20",
+    "location": "Mumbai",
+    "designation": "Manager",
+    "department": "Engg"
+  }
+]
