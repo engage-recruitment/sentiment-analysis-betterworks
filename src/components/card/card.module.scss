@@ -1,0 +1,12 @@
+.card {
+  border-radius: 6px;
+  box-shadow: 0 6px 15px rgba(36, 37, 38, 0.08);
+
+  &:hover {
+    box-shadow: 5px 12px 20px rgba(36, 37, 38, 0.13);
+  }
+
+  .cardBody {
+    padding: 12px 16px;
+  }
+}

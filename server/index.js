@@ -3,6 +3,7 @@ const morgan = require("morgan");
 const bodyParser = require("body-parser");
 const compression = require("compression");
 const helmet = require("helmet");
+const path = require("path");
 const PORT = process.env.PORT || 4100;
 
 const analyser = require("./analyser");
@@ -36,6 +37,8 @@ app.get('/api/users', (_, response) => {
     users: usersWithVotes
   });
 });
+
+app.use(express.static(path.resolve(__dirname, '..', 'build')));
 
 app.listen(PORT, () => {
   console.log("Listening on PORT ", PORT);

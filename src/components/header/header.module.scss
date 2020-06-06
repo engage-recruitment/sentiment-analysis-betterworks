@@ -1,0 +1,19 @@
+.header {
+  padding: 8px 24px;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #fff;
+  box-shadow: 0 1px 16px -8px #333;
+
+  .logo {
+    width: 64px;
+  }
+
+  .title {
+    font-size: 24px;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+  }
+}
